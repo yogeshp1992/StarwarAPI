@@ -1,5 +1,5 @@
 """
-TODO-cd by nilesh
+TODO-cd from nilesh
 
 1. Pull data for the first movie ("A New Hope") and save in DB.
 
